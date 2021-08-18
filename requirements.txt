@@ -6,7 +6,7 @@ MarkupSafe
 Werkzeug
 numpy
 scipy
-scikit-learn
+scikit-image
 matplotlib
 pandas
 category_encoders
